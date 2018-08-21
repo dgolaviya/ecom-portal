@@ -1,0 +1,16 @@
+.search-container {
+    background-color: #38414c;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+}
+.footer-container {
+    background-color: #48525e;
+    color: antiquewhite;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}

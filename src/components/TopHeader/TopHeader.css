@@ -1,0 +1,19 @@
+.top-header {
+    margin: 10px 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.right-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-flow: row wrap;
+    width: 330px;
+}
+
+.logo {
+    height: 38px;
+}
